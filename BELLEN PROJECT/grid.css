@@ -1,0 +1,19 @@
+body{
+  background-image: url("OP.jpg");
+}
+h1{
+  text-align: center;
+  background-color: lightgrey;
+}
+div{
+  flex-wrap: wrap;
+}
+h2{
+  background-color: antiquewhite;
+  text-align: center;
+  margin: 100px;
+}
+p{
+  text-align: center;
+  font-size: 20px;
+}
